@@ -1,0 +1,28 @@
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  word-wrap: normal;
+}
+
+.reveal h1 {
+  font-size: 2.0em; }
+
+.reveal h2 {
+  margin: 0;
+  font-size: 1.3em; }
+
+.reveal h3 {
+  font-size: 1.1em; }
+
+.reveal h4 {
+  font-size: 1.0em; }
+
+.reveal p {
+  margin: 0; }
+
+.reveal section img {
+  margin: 0;
+  border: 0; }

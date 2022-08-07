@@ -1,0 +1,10 @@
+# Editor backups
+*~
+
+# Generated files
+index.html
+montage.png
+tle-stack.svg
+
+# 3rd Party
+reveal.js
